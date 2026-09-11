@@ -54,24 +54,39 @@ FinanceDash/
 │   └── index.css           # Global stylesheet
 ├── vite.config.js          # Vite config settings
 └── package.json            # Dependencies & build scripts
+```
 
-🚀 Quick Start / How to Run Locally
-1. Clone the repository
+---
+
+## 🚀 Quick Start / How to Run Locally
+
+### 1. Clone the repository
+```bash
 git clone https://github.com/Teja-vardhan67/FinanceDash.git
 cd FinanceDash
+```
 
-2. Install dependencies
+### 2. Install dependencies
+```bash
 npm install
+```
 
-3. Start the development server
+### 3. Start the development server
+```bash
 npm run dev
-Open http://localhost:5173 in your browser.
+```
+Open `http://localhost:5173` in your browser.
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check out the issues page.
+---
 
-👤 Author
-Teja Vardhan
+## 🤝 Contributing
 
-GitHub: @Teja-vardhan67
-Live App: finance-dash-ten-eta.vercel.app
+Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/Teja-vardhan67/FinanceDash/issues).
+
+---
+
+## 👤 Author
+
+**Teja Vardhan**
+- GitHub: [@Teja-vardhan67](https://github.com/Teja-vardhan67)
+- Live App: [finance-dash-ten-eta.vercel.app](https://finance-dash-ten-eta.vercel.app)
